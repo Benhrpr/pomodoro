@@ -1,6 +1,6 @@
 :root {
   --font: var(--font-sans-serif);
-  --color-accent: var(--color-red);
+  --color-accent: var(--color-black);
 
   --font-sans-serif: "Poppins", sans-serif;
   --font-serif: "Aleo", serif;
@@ -77,8 +77,8 @@ label {
   font-family: var(--font-mono);
 }
 
-.bg-red {
-  background-color: var(--color-red);
+.bg-black {
+  background-color: var(--color-black);
 }
 
 .bg-cyan {
